@@ -1,2 +1,4 @@
 # hello-world
-For practice
+For practice.
+
+I am now editing this README file.
